@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# ================================
+# UiPath Project Specific Ignores
+# ================================
+.local/
+.objects/
+.project/
+.settings/
+.tmh/
+project.uiproj
+
